@@ -1,0 +1,6 @@
+[submodule "TemFu"]
+	path = TemFu
+	url = https://github.com/RasmusWind/TemFu.git
+[submodule "VideoAPI"]
+	path = VideoAPI
+	url = https://github.com/RasmusWind/VideoAPI.git
